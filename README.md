@@ -35,6 +35,9 @@ ng serve
 ng g c SectionSales
 ng g c SectionOrders
 ng g c SectionHealth
+ng g c bar-chart
+ng g c line-chart
+ng g c pie-chart
 
 npm install --save bootstrap@4.0.0-beta jquery
 npm install --save popper.js@^1.11.0
