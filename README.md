@@ -32,7 +32,11 @@ ng new BIDashboard
 ng g c navbar
 ng g c sidebar
 ng serve
+ng g c SectionSales
+ng g c SectionOrders
+ng g c SectionHealth
 
 npm install --save bootstrap@4.0.0-beta jquery
 npm install --save popper.js@^1.11.0
 npm install --save chart.js
+npm install --save ng2-charts
